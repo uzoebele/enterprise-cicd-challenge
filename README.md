@@ -17,3 +17,7 @@ This project is a hands-on learning environment for building and understanding a
 ## Goal
 
 Build, test, containerise, and deploy an application to AWS using an automated CI/CD pipeline.
+
+## ECS Work
+
+This branch is being used to add ECS-related changes.
